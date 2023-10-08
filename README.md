@@ -1,7 +1,7 @@
 # Dispersion Curves for Circumferential Surface Waves
 
 The way in which a surface wave propagates (i.e. Rayleigh wave) on the surface of a cylinder differs from that of 
-an infinite flat half space when the wavelengths are comparable to the circumference ($2 \pi radius/wavelengths$ < 200).  
+an infinite flat half space when the wavelengths are comparable to the circumference ($2 \pi radius/wavelength$ < 200).  
 The curvature can cause apparent velocities not related to the true speed of a
 material.  Even changes in the phase of the waveforms have been reported in the literature (See Clorennec and Royer (2003)
 for instance).
