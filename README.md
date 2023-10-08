@@ -10,6 +10,8 @@ surface wave around the outline of a thin disk is equivalent to that of a cylind
 
 Liu et. al, (1998) is a good reference to the problem of surface waves in thin pipes. 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edur409/Circumferential-Surface-Waves/HEAD)
+
 # References
 
 - Cerv J., 1988, “Dispersion of Elastic Waves and Rayleigh-type Waves in a Thin Disc”,
