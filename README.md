@@ -1,7 +1,7 @@
 # Dispersion Curves for Circumferential Surface Waves
 
 The way in which a surface wave propagates (i.e. Rayleigh wave) on the surface of a curved object differs from that of 
-an infinite flat half space.  The curvature can cause apparent velocities not related to the true material speed of a
+an infinite flat half space.  The curvature can cause apparent velocities not related to the true speed of a
 material.  Even changes in the phase of the waveforms have been reported in the literature (See Clorennec and Royer (2003)
 for instance).
 
