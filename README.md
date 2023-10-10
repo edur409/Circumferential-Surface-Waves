@@ -15,12 +15,14 @@ Liu et. al, (1998) is a good reference to the problem of surface waves in thin p
 
 # References
 
-- Cerv J., 1988, “Dispersion of Elastic Waves and Rayleigh-type Waves in a Thin Disc”,
-  Acta Technica Csav, Vol. 89, pp. 89–99.
-
 - Viktorov, I., 1967. Rayleigh and Lamb waves, translated by WP Mason.
   
+- Cerv J., 1988, “Dispersion of Elastic Waves and Rayleigh-type Waves in a Thin Disc”,
+  Acta Technica Csav, Vol. 89, pp. 89–99.
+  
 - Liu, Guoli, and Jianmin Qu. "Guided circumferential waves in a circular annulus." (1998): 424-430.
+
+- Clorennec, D., & Royer, D. (2003). Analysis of surface acoustic wave propagation on a cylinder using laser ultrasonics. Applied physics letters, 82(25), 4608-4610. 
 
 ## Hardware and Software
 
