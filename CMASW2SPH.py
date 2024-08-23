@@ -10,7 +10,8 @@ from scipy.special import spherical_jn, spherical_yn
 
 def Cooke_Rand_matrix(omega, kh, cL, cT, rho, eta, R):
     '''
-    Determinant of coefficients for the 6x6 matrix in the thesis of Christine Valle.
+    Determinant of coefficients for the 6x6 matrix in the paper:
+    Cooke, J. R., & Rand, R. H. (1973). A mathematical study of resonance in intact fruits and vegetables using a 3-media elastic sphere model. Journal of agricultural engineering research, 18(2), 141-157.[doi: https://doi.org/10.1016/0021-8634(73)90023-1]
     kh = dimensionless wavenumber (equivalent to kp in Cerv's code)
     R_2 = Outer radius
     R_1 = Inner radius
