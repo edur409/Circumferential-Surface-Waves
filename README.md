@@ -223,6 +223,7 @@ IPython version      : 8.14.0
 numpy     : 1.25.1
 matplotlib: 3.7.1
 scipy     : 1.11.1
+joblib    : 1.4.2 
 
 Compiler    : GCC 12.3.0
 OS          : Linux
