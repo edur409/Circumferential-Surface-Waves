@@ -57,7 +57,7 @@ From Knopoff et al. (1989):
 From page 324 of Snieder and van Wijk (2015):
 > "This means that the total number of waves that fit around the globe is given by $(l + 1/2)$.  It may surprise you that the number of oscillations in one loop around the globe is not an integer.  One would expect that the requirement of constructive interference would dictate that an integer number of wavelengths should "fit" this interval.  ...The fact that $(l + 1/2)$ rather than $l$ oscillations fit on the sphere has a profound effect in quantum mechanics."
 
-I infer Clorennec and Royer (2004) did not use Jeans' rule since they assert in the third paragraph of page 2435: "An integer value $n$ of $ka$ corresponds to a resonance frequency $\omega_n$".  In their notation, $n$ is the spherical harmonic order $l$.
+I infer Clorennec and Royer (2004) did not use Jeans' rule since they assert in the third paragraph of page 2435: "An integer value $n$ of $ka$ corresponds to a resonance frequency $\omega_n$".  In their notation, $n$ is the spherical harmonic order $l$, as in Equation 2.2 of Sato and Usami (1962) for the spheroidal oscillation.
 
 
 # CMASW inversion code structure
