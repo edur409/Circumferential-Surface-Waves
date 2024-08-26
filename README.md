@@ -56,7 +56,7 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 From Knopoff et al. (1989):
 
-> "There is a reciprocity between the free-mode and the traveling-wave descriptions that is given by Jeans's formula, $ka = l + 1/2$, where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves. Since the free oscillations are the standing wave system formed out of the appropriate traveling surface waves of the same period, we can use either point of view, as convenience dictates."
+> "There is a reciprocity between the free-mode and the traveling-wave descriptions that is given by Jeans's formula, $ka = l + \frac{1}{2}$, where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves. Since the free oscillations are the standing wave system formed out of the appropriate traveling surface waves of the same period, we can use either point of view, as convenience dictates."
 
 From page 324 of Snieder and van Wijk (2015):
 > "This means that the total number of waves that fit around the globe is given by $(l + \textonehalf{})$.  It may surprise you that the number of oscillations in one loop around the globe is not an integer.  One would expect that the requirement of constructive interference would dictate that an integer number of wavelengths should "fit" this interval.  ...The fact that $(l + \textonehalf{})$ rather than $l$ oscillations fit on the sphere has a profound effect in quantum mechanics."
