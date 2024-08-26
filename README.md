@@ -171,7 +171,7 @@ The function has three nested functions inside to perform the following tasks:
 - Do the previous tasks in a parallelized manner using the [`joblib`](https://joblib.readthedocs.io/en/stable/) package calling the function `final`.
 
   *   ### `final` function
-      calls `opt` for an omega (\omega) value given by the index $n$.
+      calls `opt` for an omega ($\omega$) value given by the index $n$.
 
   *   ### `opt` function
       calculates the velocity as:
