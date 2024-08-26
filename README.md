@@ -5,7 +5,7 @@ for instance).
 
 The dispersion equations for time-harmonic circumferential waves can be found in several research papers for different geometries (e.g. thin solid discs, annulii, cylinders, spheres, concentric cilinders or spheres).
 
-The following list of references does not pretend to be exhaustive, nevertheless it provides an idea of the interest in these waves and their scale ranging from Geophysics to Material Engineering to Food produce characterization.
+The following list of references does not pretend to be exhaustive, nevertheless it provides an idea of the interest in these waves and their scale ranging from geophysics to material engineering and produce characterization.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edur409/Circumferential-Surface-Waves/main)
 
@@ -59,7 +59,7 @@ From Knopoff et al. (1989):
 > "There is a reciprocity between the free-mode and the traveling-wave descriptions that is given by Jeans's formula, $ka = l + 1/2$, where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves. Since the free oscillations are the standing wave system formed out of the appropriate traveling surface waves of the same period, we can use either point of view, as convenience dictates."
 
 From page 324 of Snieder and van Wijk (2015):
-> "This means that the total number of waves that fit around the globe is given by $(l + 1/2)$.  It may surprise you that the number of oscillations in one loop around the globe is not an integer.  One would expect that the requirement of constructive interference would dictate that an integer number of wavelengths should "fit" this interval.  ...The fact that $(l + 1/2)$ rather than $l$ oscillations fit on the sphere has a profound effect in quantum mechanics."
+> "This means that the total number of waves that fit around the globe is given by $(l + \textonehalf{})$.  It may surprise you that the number of oscillations in one loop around the globe is not an integer.  One would expect that the requirement of constructive interference would dictate that an integer number of wavelengths should "fit" this interval.  ...The fact that $(l + \textonehalf{})$ rather than $l$ oscillations fit on the sphere has a profound effect in quantum mechanics."
 
 I infer Clorennec and Royer (2004) did not use Jeans' rule since they assert in the third paragraph of page 2435: "An integer value $n$ of $ka$ corresponds to a resonance frequency $\omega_n$".  In their notation, $n$ is the spherical harmonic order $l$, as in Equation 2.2 of Sato and Usami (1962) for the spheroidal oscillation.
 
@@ -164,7 +164,7 @@ def aimfuc(self, x, omega, y_data):
 
 3. ## `velocity` function
 
-This function takes as inputs the frequency omega $\omega$, the logitudinal and transversal velocities ($v_P, v_S$), the densities and the fraction of radii of the concentric layers of the sphere ($\eta$).
+This function takes as inputs the frequency omega $\omega$, the logitudinal and transversal velocities ($v_P, v_S$), the densities and the fraction of radii of the concentric layers of the sphere or cylinder ($\eta$).
 
 The function has three nested functions inside to perform the following tasks:
 
