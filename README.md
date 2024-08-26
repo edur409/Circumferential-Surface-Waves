@@ -7,6 +7,8 @@ The dispersion equations for time-harmonic circumferential waves can be found in
 
 The following list of references does not pretend to be exhaustive, nevertheless it provides an idea of the interest in these waves and their scale ranging from Geophysics to Material Engineering to Food produce characterization.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edur409/Circumferential-Surface-Waves/main)
+
 ## References
 - Sezawa, K. (1927). On the propagation of Rayleigh waves on plane and spherical surfaces. Bull. Earthquake Res. Inst.(Tokyo), 2, 21-28.
 
