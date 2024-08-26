@@ -46,6 +46,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 - Ben-Menahem, A. (1964). Mode-ray duality. Bulletin of the Seismological Society of America, 54(5A), 1315-1321. [doi: https://doi.org/10.1785/BSSA05405A1315](https://doi.org/10.1785/BSSA05405A1315)
 
+- Ben-Menahem, A., & Singh, S. J. (1981). Seismic waves and sources. Springer Science & Business Media. [doi: https://doi.org/10.1007/978-1-4612-5856-8](https://doi.org/10.1007/978-1-4612-5856-8)
+
 - Knopoff, L., Rydelek, P. A., & Zurn, W. Twenty Two—The Transient Regime of the Free Oscillation Spectrum: The View from the South Pole. In: Litehiser, Joe J., editor Observatory Seismology: A Centennial Symposium for the Berkeley Seismographic Stations. Berkeley:  University of California Press,  c1989 1989. http://ark.cdlib.org/ark:/13030/ft7m3nb4pj/
 
 - Snieder, R., & Van Wijk, K. (2015). A guided tour of mathematical methods for the physical sciences. Cambridge University Press. [doi: https://doi.org/10.1017/CBO9781139013543](https://doi.org/10.1017/CBO9781139013543)
