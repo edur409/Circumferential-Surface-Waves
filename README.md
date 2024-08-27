@@ -5,7 +5,7 @@ for instance).
 
 The dispersion equations for time-harmonic circumferential waves can be found in several research papers for different geometries (e.g. thin solid discs, annulii, cylinders, spheres, concentric cilinders or spheres).
 
-The following list of references does not pretend to be exhaustive, nevertheless it provides an idea of the interest in these waves and their scale ranging from geophysics to material engineering and produce characterization.
+The following list of references does not pretend to be exhaustive, nevertheless it provides an idea of the interest in these waves and their scale, ranging from geophysics to material engineering and produce characterization.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edur409/Circumferential-Surface-Waves/main)
 
