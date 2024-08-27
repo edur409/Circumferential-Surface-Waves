@@ -169,7 +169,7 @@ This function takes as inputs the frequency omega $\omega$, the logitudinal and 
 The function has three nested functions inside to perform the following tasks:
 
 - Calculate the determinant for a given frequency $\omega$ and $k_p$ value (function `fun(k)`).
-- Find the roots of the determinant by the bisection method (function `opt`).  In fact, we just find the first root since that is the one related to the propagation of a Rayleigh-type surface wave around the object.
+- Find the roots of the determinant by the bisection method (function `opt`).  In fact, we just find the first root since that is the one related to the propagation of a Rayleigh-type surface wave around the object; the other roots correspond to whispering gallery modes.
 - Do the previous tasks in a parallelized manner using the [`joblib`](https://joblib.readthedocs.io/en/stable/) package calling the function `final`.
 
   *   ### `final` function
