@@ -22,6 +22,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 - Cooke, J. R., & Rand, R. H. (1973). A mathematical study of resonance in intact fruits and vegetables using a 3-media elastic sphere model. Journal of agricultural engineering research, 18(2), 141-157.[doi: https://doi.org/10.1016/0021-8634(73)90023-1](https://doi.org/10.1016/0021-8634(73)90023-1)
 
+- Eringen, A. C., & Suhubi, E. S. (1975). Elastodynamics. Vol 2: Linear theory. Academic press. 
+
 - Okal, E. A. (1978). A physical classification of the Earth's spheroidal modes. Journal of Physics of the Earth, 26(1), 75-103. [doi: https://doi.org/10.4294/jpe1952.26.75](https://doi.org/10.4294/jpe1952.26.75)
 
 - Odaka, T., & Usami, T. (1978). Some properties of spheroidal modes of a homogeneous elastic sphere with special reference to radial dependence of displacement. Journal of Computational Physics, 29(3), 431-445. [doi: https://doi.org/10.1016/0021-9991(78)90145-6](https://doi.org/10.1016/0021-9991(78)90145-6)
@@ -63,6 +65,7 @@ From page 324 of Snieder and van Wijk (2015):
 
 I infer Clorennec and Royer (2004) did not use Jeans' rule since they assert in the third paragraph of page 2435: "An integer value $n$ of $ka$ corresponds to a resonance frequency $\omega_n$".  In their notation, $n$ is the spherical harmonic order $l$, as in Equation 2.2 of Sato and Usami (1962) for the spheroidal oscillation.
 
+**PS3:** A good resource online for checking the vibrational eigenmodes of simple shapes (i.e cylinders and spheres) is provided by researcher Lucien Saviot here: (https://saviot.cnrs.fr/index.en.html)[https://saviot.cnrs.fr/index.en.html].
 
 # CMASW inversion code structure
 
