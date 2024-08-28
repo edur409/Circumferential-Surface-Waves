@@ -65,7 +65,7 @@ From page 324 of Snieder and van Wijk (2015):
 
 I infer Clorennec and Royer (2004) did not use Jeans' rule since they assert in the third paragraph of page 2435: "An integer value $n$ of $ka$ corresponds to a resonance frequency $\omega_n$".  In their notation, $n$ is the spherical harmonic order $l$, as in Equation 2.2 of Sato and Usami (1962) for the spheroidal oscillation.
 
-**PS3:** A good resource online for checking the vibrational eigenmodes of simple shapes (i.e cylinders and spheres) is provided by researcher Lucien Saviot here: [https://saviot.cnrs.fr/index.en.html](https://saviot.cnrs.fr/index.en.html).
+**PS3:** A good resource online for checking and visualizing the vibrational eigenmodes of simple shapes (i.e cylinder, spheres, and more) is provided by researcher Lucien Saviot here: [https://saviot.cnrs.fr/index.en.html](https://saviot.cnrs.fr/index.en.html).
 
 # CMASW inversion code structure
 
