@@ -10,6 +10,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edur409/Circumferential-Surface-Waves/main)
 
 ## References
+- Lamb, H. (1881). On the vibrations of an elastic sphere. Proceedings of the London Mathematical Society, 1(1), 189-212. [doi: https://doi.org/10.1112/plms/s1-13.1.189](https://doi.org/10.1112/plms/s1-13.1.189)
+  
 - Sezawa, K. (1927). On the propagation of Rayleigh waves on plane and spherical surfaces. Bull. Earthquake Res. Inst.(Tokyo), 2, 21-28.
 
 - Brune, J. N., Nafe, J. E., & Alsop, L. E. (1961). The polar phase shift of surface waves on a sphere. Bulletin of the Seismological Society of America, 51(2), 247-257. [doi: https://doi.org/10.1785/BSSA0510020247](https://doi.org/10.1785/BSSA0510020247)
@@ -40,6 +42,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 - Clorennec, D., & Royer, D. (2004). Investigation of surface acoustic wave propagation on a sphere using laser ultrasonics. Applied physics letters, 85(12), 2435-2437. [doi: https://doi.org/10.1063/1.1791331](https://doi.org/10.1063/1.1791331)
 
+- Saviot, L., Murray, D. B., Mermet, A., & Duval, E. (2004). Comment on “Estimate of the vibrational frequencies of spherical virus particles”. Physical Review E, 69(2), 023901. [doi: https://doi.org/10.1103/PhysRevE.69.023901](https://doi.org/10.1103/PhysRevE.69.023901)
+  
 - Jaganathan, A. P. (2019). Multichannel surface wave analysis of reinforced concrete pipe segments using longitudinal and circumferential waves induced by a point impact. Journal of Applied Geophysics, 163, 40-54. [doi: https://doi.org/10.1016/j.jappgeo.2019.02.010](https://doi.org/10.1016/j.jappgeo.2019.02.010)
 
 - Gallezot, M., Treyssede, F., & Abraham, O. (2020). Forced vibrations and wave propagation in multilayered solid spheres using a one-dimensional semi-analytical finite element method. Wave Motion, 96, 102555. [doi: https://doi.org/10.1016/j.wavemoti.2020.102555](https://doi.org/10.1016/j.wavemoti.2020.102555)
@@ -65,7 +69,7 @@ From page 324 of Snieder and van Wijk (2015):
 
 I infer Clorennec and Royer (2004) did not use Jeans' rule since they assert in the third paragraph of page 2435: "An integer value $n$ of $ka$ corresponds to a resonance frequency $\omega_n$".  In their notation, $n$ is the spherical harmonic order $l$, as in Equation 2.2 of Sato and Usami (1962) for the spheroidal oscillation.
 
-**PS3:** A good resource online for checking and visualizing the vibrational eigenmodes of simple shapes (i.e cylinder, spheres, and more) is provided by researcher Lucien Saviot here: [https://saviot.cnrs.fr/index.en.html](https://saviot.cnrs.fr/index.en.html).
+**PS3:** A good resource online for checking and visualizing the vibrational eigenmodes of simple shapes (i.e cylinder, spheres, and more) is provided by researcher Lucien Saviot here: [https://saviot.cnrs.fr/index.en.html](https://saviot.cnrs.fr/index.en.html). Check Saviot et al. (2004) in the references above. In the [Fundamental Modes](https://github.com/edur409/Circumferential-Surface-Waves/tree/main/Fundamental_Modes) folder there is a notebook to calculate the fundamental modes of a homogenous sphere. Details on the README.md file of that folder.
 
 # CMASW inversion code structure
 
