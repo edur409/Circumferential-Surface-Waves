@@ -24,9 +24,11 @@ The fundamental modes for order $n = 0$ are a special case covered by Lamb (1881
 
 > For materials with positive Poisson ratio, it is impossible to have the energy for the fundamental $n = 0$ mode smaller than the energy for the fundamental $n = 2$ one.
 
-Lamb (1881) implies the same on the last paragraph of his article (italics here for emphasis):
+Lamb (1881) implies the same on the last paragraph of his article in page 211 (italics here for emphasis):
 
-> As an application of the preceeding results we may calculate the frequency of vibration of a steel ball one centimetre in radius, *for the slowest of those fundamental modes in which the surface oscillates in the form of a harmonic spheroid of the second order.*
+> As an application of the preceeding results we may calculate the frequency of vibration of a steel ball one centimetre in radius, *for the slowest of those fundamental modes in which the surface oscillates in the form of a harmonic spheroid of the second order.*  In $\S$ 12 we obtained for this case $ka/\pi = .842$.
+
+If we use $v_p = 6009~m/s$ and $v_s = 3212~m/s$ for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135,276~Hz$ or about $136,000~Hz$ as he estimates. 
 
 ## References:
 
