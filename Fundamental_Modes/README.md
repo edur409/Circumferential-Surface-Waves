@@ -35,9 +35,13 @@ If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$
 ## Fundamental eigenfrequencies: the roots of these equations
 * For $n = 0$ and $l > 0$:
   
-  - From Lamb (1881), Eq.59:
+  - From Lamb (1881), page 201, Eq.59:
     
 $$tan(\theta) = \frac{4\theta}{4 - \frac{\theta^2}{\lambda^2}}$$ 
+
+where
+
+> $\lambda^2 = \left \frac{v_s}{v_p} \right^2$  
 
   - or equivalently from Aki and Richards:
     
@@ -54,9 +58,9 @@ where
 
 > $f$: frequency
 
-> $\eta = \frac{2 \pi f R}{v_p} = k_l R$
+> $\eta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$
 
-> $\xi = \frac{2 \pi f R}{v_s} = k_t R$
+> $\xi = \frac{2 \pi f R}{v_s} = \frac{\omega}{v_p} = k_t R$
 
 > $J_{\nu}(z)$: Bessel function of the first kind 
 
