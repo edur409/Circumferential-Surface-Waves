@@ -43,7 +43,7 @@ where
 
 > $\lambda = \left(\frac{v_s}{v_p}\right)$  
 
-> $\theta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$
+> $\theta = \frac{2 \pi f R}{v_p} R = \frac{\omega}{v_p} = k_l R$
 
   - or equivalently from Aki and Richards (2002):
     
@@ -53,7 +53,7 @@ where
 
 > $\lambda = \left(\frac{v_p}{v_s}\right)$. Yes, the inverse of the same constant in Lamb (1881)!!!  
 
-> $x = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$. Simply what Lamb (1881) calls $\theta$ above.
+> $x = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} R = k_l R$. Simply what Lamb (1881) calls $\theta$ above.
 
 ### For $n > 0$ and $l > 0$:
 - From Sato and Usami (1962), page 16, Eq.2.2:
@@ -67,9 +67,9 @@ where
 
 > $f$: frequency
 
-> $\eta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$
+> $\eta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} R = k_l R$
 
-> $\xi = \frac{2 \pi f R}{v_s} = \frac{\omega}{v_s} = k_t R$
+> $\xi = \frac{2 \pi f R}{v_s} = \frac{\omega}{v_s} R = k_t R$
 
 > $J_{\nu}(z)$: Bessel function of the first kind 
 
@@ -78,5 +78,7 @@ where
 - Lamb, H. (1881). On the vibrations of an elastic sphere. Proceedings of the London Mathematical Society, 1(1), 189-212. [doi: https://doi.org/10.1112/plms/s1-13.1.189](https://doi.org/10.1112/plms/s1-13.1.189) 
 
 - Sato, Y. and Usami, T. (1962). Basic study on the oscillation of a homogeneous elastic sphere-Part I: Frequency of the Free Oscillations, Geophysical Magazine, 31(15-24).
+
+- Aki, K., & Richards, P. G. (2002). Quantitative seismology. ISBN 0-935702-96-2.
 
 - Saviot, L., Murray, D. B., Mermet, A., & Duval, E. (2004). Comment on “Estimate of the vibrational frequencies of spherical virus particles”. Physical Review E, 69(2), 023901. [doi: https://doi.org/10.1103/PhysRevE.69.023901](https://doi.org/10.1103/PhysRevE.69.023901)
