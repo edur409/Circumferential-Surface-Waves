@@ -69,7 +69,7 @@ where
 
 > $\eta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$
 
-> $\xi = \frac{2 \pi f R}{v_s} = \frac{\omega}{v_p} = k_t R$
+> $\xi = \frac{2 \pi f R}{v_s} = \frac{\omega}{v_s} = k_t R$
 
 > $J_{\nu}(z)$: Bessel function of the first kind 
 
