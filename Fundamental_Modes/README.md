@@ -6,7 +6,9 @@ The spheroidal eigenfrequencies for order $n$ and mode $l$, following these nota
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Homogeneous Sphere (Correct $n = 0$ mode)
+- Homogeneous Sphere (Correct $n = 0$ mode) <a target="_blank" href="https://colab.research.google.com/github/edur409/Circumferential-Surface-Waves/blob/main/Fundamental_Modes/Sphere_Fundamental_Modes_Corrected.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 - Homogeneous Cylinder <a target="_blank" href="https://colab.research.google.com/github/edur409/Circumferential-Surface-Waves/blob/main/Fundamental_Modes/Cylinder_Fundamental_Modes.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -28,7 +30,7 @@ Lamb (1881) implies the same on the last paragraph of his article in page 211 (i
 
 > As an application of the preceeding results we may calculate the frequency of vibration of a steel ball one centimetre in radius, *for the slowest of those fundamental modes in which the surface oscillates in the form of a harmonic spheroid of the second order.*  In $\S$ 12 we obtained for this case $ka/\pi = .842$.
 
-If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135,276$ Hz or about $136,000$ Hz as he estimates. 
+If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135,276$ Hz or about $136,000$ Hz as he estimates. In other words, the gravest frequency of vibration for a homogenous elastic sphere with positive Poisson ratio corresponds to the $0_S_2$ mode.
 
 ## References:
 
