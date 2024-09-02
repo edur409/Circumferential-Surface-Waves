@@ -30,7 +30,7 @@ Lamb (1881) implies the same on the last paragraph of his article in page 211 (i
 
 > As an application of the preceeding results we may calculate the frequency of vibration of a steel ball one centimetre in radius, *for the slowest of those fundamental modes in which the surface oscillates in the form of a harmonic spheroid of the second order.*  In $\S$ 12 we obtained for this case $ka/\pi = .842$.
 
-If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135,276$ Hz or about $136,000$ Hz as he estimates. In other words, the gravest frequency of vibration for a homogenous elastic sphere with positive Poisson ratio corresponds to the ${0}_S_{2}$ mode.
+If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135,276$ Hz or about $136,000$ Hz as he estimates. In other words, the gravest frequency of vibration for a homogenous elastic sphere with positive Poisson ratio corresponds to the $_{0}S_{2}$ mode.
 
 ## References:
 
