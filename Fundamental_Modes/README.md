@@ -32,6 +32,16 @@ Lamb (1881) implies the same on the last paragraph of his article in page 211 (i
 
 If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135276$ Hz or about $136000$ Hz as he estimates. In other words, the gravest frequency of vibration for a homogenous elastic sphere with positive Poisson ratio corresponds to the $_2S_0$ mode.  This mode ($_2S_0$) is the change of shape from an oblate to a prolate ellipsoid not the so called breathing mode $_0S_0$ (volumetric change), for which the frequency is remarkably larger in comparison.
 
+## Fundamental eigenfrequencies: the roots of these equations
+- For $n = 0$ and $l > 0$:
+  - From Lamb (1881), Eq.59:
+    $$tan(\theta) = \frac{4\theta}{4 - \frac{\theta^2}{\lambda^2}}$$ 
+  - or equivalently from Aki and Richards:
+    $$cot(x) = \frac{1}{x} - \frac{1}{4}\lambda^2 x$$
+
+- For $n > 0$ and $l > 0$:
+  $$\begin{aligned} & {\left[\left(\frac{1}{2}-\frac{n(n-1)}{\eta^2}\right) J_{n+1 / 2}(\xi)-\frac{2 \xi}{\eta^2} J_{n+3 / 2}(\xi)\right]\left[\frac{2}{\eta} J_{n+3 / 2}(\eta)+\left(\frac{2\left(n^2-1\right)}{\eta^2}-1\right) J_{n+1 / 2}(\eta)\right]} \\ & \quad+2 n(n+1)\left[\frac{n-1}{\eta^2} J_{n+1 / 2}(\xi)-\frac{\xi}{\eta^2} J_{n+3 / 2}(\xi)\right]\left[\frac{n-1}{\eta^2} J_{n+1 / 2}(\eta)-\frac{1}{\eta} J_{n+3 / 2}(\eta)\right]=0\end{aligned}$$
+
 ## References:
 
 - Lamb, H. (1881). On the vibrations of an elastic sphere. Proceedings of the London Mathematical Society, 1(1), 189-212. [doi: https://doi.org/10.1112/plms/s1-13.1.189](https://doi.org/10.1112/plms/s1-13.1.189) 
