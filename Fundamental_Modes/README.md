@@ -51,9 +51,9 @@ $$cot(x) = \frac{1}{x} - \frac{1}{4}\lambda^2 x$$
 
 where
 
-> $\lambda = \left(\frac{v_p}{v_s}\right)$ Yes, the inverse of the same constant in Lamb (1881)!!!  
+> $\lambda = \left(\frac{v_p}{v_s}\right)$. Yes, the inverse of the same constant in Lamb (1881)!!!  
 
-> $x = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$ Or what Lamb (1881) calls $\theta$ above.
+> $x = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$. Simply what Lamb (1881) calls $\theta$ above.
 
 ### For $n > 0$ and $l > 0$:
 - From Sato and Usami (1962), page 16, Eq.2.2:
