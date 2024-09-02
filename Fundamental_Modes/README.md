@@ -43,6 +43,8 @@ where
 
 > $\lambda^2 = \left(\frac{v_s}{v_p}\right)^2$  
 
+> $\theta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$$
+
   - or equivalently from Aki and Richards:
     
 $$cot(x) = \frac{1}{x} - \frac{1}{4}\lambda^2 x$$
