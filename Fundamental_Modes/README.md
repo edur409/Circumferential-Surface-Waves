@@ -50,7 +50,11 @@ $$\begin{aligned} & {\left[\left(\frac{1}{2}-\frac{n(n-1)}{\eta^2}\right) J_{n+1
 
 where
 
+> $R$: radius of the sphere
+> $f$: frequency
 > $\eta = \frac{2 \pi f R}{v_p} = k_l R$
+> $\xi = \frac{2 \pi f R}{v_s} = k_t R$
+> $J_{\nu}(z)$: Bessel function of the first kind 
 
 ## References:
 
