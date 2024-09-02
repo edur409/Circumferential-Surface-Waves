@@ -41,7 +41,7 @@ $$tan(\theta) = \frac{4\theta}{4 - \frac{\theta^2}{\lambda^2}}$$
 
 where
 
-> $\lambda^2 = \left \frac{v_s}{v_p} \right^2$  
+> $\lambda^2 = \left(\frac{v_s}{v_p})\right^2$  
 
   - or equivalently from Aki and Richards:
     
