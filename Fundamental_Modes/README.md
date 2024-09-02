@@ -41,13 +41,19 @@ $$tan(\theta) = \frac{4\theta}{4 - \frac{\theta^2}{\lambda^2}}$$
 
 where
 
-> $\lambda^2 = \left(\frac{v_s}{v_p}\right)^2$  
+> $\lambda = \left(\frac{v_s}{v_p}\right)$  
 
-> $\theta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$$
+> $\theta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$
 
-  - or equivalently from Aki and Richards:
+  - or equivalently from Aki and Richards (2002):
     
 $$cot(x) = \frac{1}{x} - \frac{1}{4}\lambda^2 x$$
+
+where
+
+> $\lambda = \left(\frac{v_p}{v_s}\right)$ (yes, the inverse of the same constant in Lamb (1881)!)  
+
+> $x = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} = k_l R$$ (what Lamb (1881) calls $\theta$)
 
 * For $n > 0$ and $l > 0$:
 
