@@ -35,9 +35,12 @@ If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$
 ## Fundamental eigenfrequencies: the roots of these equations
 - For $n = 0$ and $l > 0$:
   - From Lamb (1881), Eq.59:
-    $$tan(\theta) = \frac{4\theta}{4 - \frac{\theta^2}{\lambda^2}}$$ 
+    
+$$tan(\theta) = \frac{4\theta}{4 - \frac{\theta^2}{\lambda^2}}$$ 
+
   - or equivalently from Aki and Richards:
-    $$cot(x) = \frac{1}{x} - \frac{1}{4}\lambda^2 x$$
+    
+$$cot(x) = \frac{1}{x} - \frac{1}{4}\lambda^2 x$$
 
 - For $n > 0$ and $l > 0$:
 
