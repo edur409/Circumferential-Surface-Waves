@@ -28,9 +28,9 @@ The fundamental modes for order $n = 0$ are a special case covered by Lamb (1881
 
 Lamb (1881) implies the same on the last paragraph of his article in page 211 (italics here for emphasis):
 
-> As an application of the preceeding results we may calculate the frequency of vibration of a steel ball one centimetre in radius, *for the slowest of those fundamental modes in which the surface oscillates in the form of a harmonic spheroid of the second order.*  In $\S$ 12 we obtained for this case $ka/\pi = .842$.
+> 13. As an application of the preceeding results we may calculate the frequency of vibration of a steel ball one centimetre in radius, *for the slowest of those fundamental modes in which the surface oscillates in the form of a harmonic spheroid of the second order.*  In $\S$ 12 we obtained for this case $ka/\pi = .842$.  Now, $ka/\pi = T_0/r$, where $r$ is the period, and $T_0 = 2a/\sqrt{\mu \rho^{-1}}$. Making then $a = 1$, and adopting from Everett the values $\mu = 8.19\times10^{11}$, $\rho = 7.85$, in C.G.S. measure, I find that the frequency $r^{-1} = 136000$, about. 
 
-If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135,276$ Hz or about $136,000$ Hz as he estimates. In other words, the gravest frequency of vibration for a homogenous elastic sphere with positive Poisson ratio corresponds to the $_2S_0$ mode.  This mode ($_2S_0$) is the change of shape from an oblate to a prolate ellipsoid not the so called breathing mode $_0S_0$ (volumetric change).
+If we use $v_p = 6009$ m/s and $v_s = 3212$ m/s for steel, the value of $ka/\pi$ is the same as that of Lamb (1881), which corresponds to a frequency of $135,276$ Hz or about $136,000$ Hz as he estimates. In other words, the gravest frequency of vibration for a homogenous elastic sphere with positive Poisson ratio corresponds to the $_2S_0$ mode.  This mode ($_2S_0$) is the change of shape from an oblate to a prolate ellipsoid not the so called breathing mode $_0S_0$ (volumetric change), for which the frequency is remarkably larger in comparison.
 
 ## References:
 
