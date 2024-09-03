@@ -43,6 +43,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 - Clorennec, D., & Royer, D. (2004). Investigation of surface acoustic wave propagation on a sphere using laser ultrasonics. Applied physics letters, 85(12), 2435-2437. [doi: https://doi.org/10.1063/1.1791331](https://doi.org/10.1063/1.1791331)
 
 - Saviot, L., Murray, D. B., Mermet, A., & Duval, E. (2004). Comment on “Estimate of the vibrational frequencies of spherical virus particles”. Physical Review E, 69(2), 023901. [doi: https://doi.org/10.1103/PhysRevE.69.023901](https://doi.org/10.1103/PhysRevE.69.023901)
+
+- Saviot, L. (2018). Vibrations of single-crystal gold nanorods and nanowires. Physical Review B, 97(15), 155420. [doi: https://doi.org/10.1103/PhysRevB.97.155420](https://doi.org/10.1103/PhysRevB.97.155420)
   
 - Jaganathan, A. P. (2019). Multichannel surface wave analysis of reinforced concrete pipe segments using longitudinal and circumferential waves induced by a point impact. Journal of Applied Geophysics, 163, 40-54. [doi: https://doi.org/10.1016/j.jappgeo.2019.02.010](https://doi.org/10.1016/j.jappgeo.2019.02.010)
 
