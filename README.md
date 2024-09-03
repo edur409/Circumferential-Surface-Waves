@@ -34,6 +34,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 - Cerv J., 1988, “Dispersion of Elastic Waves and Rayleigh-type Waves in a Thin Disc”, Acta Technica Csav, Vol. 89, pp. 89–99.
 
+- Visscher, W. M., Migliori, A., Bell, T. M., & Reinert, R. A. (1991). On the normal modes of free vibration of inhomogeneous and anisotropic elastic objects. The Journal of the Acoustical Society of America, 90(4), 2154-2162. [doi: https://doi.org/10.1121/1.401643](https://doi.org/10.1121/1.401643)
+
 - Liu, Guoli, and Jianmin Qu. "Guided circumferential waves in a circular annulus." (1998): 424-430. [doi: https://doi.org/10.1115/1.2789071](https://doi.org/10.1115/1.2789071)
 
 - Valle, C., Qu, J., & Jacobs, L. J. (1999). Guided circumferential waves in layered cylinders. International Journal of Engineering Science, 37(11), 1369-1387. [doi: https://doi.org/10.1016/S0020-7225(98)00133-5](https://doi.org/10.1016/S0020-7225(98)00133-5) [CAUTION: Equations in this paper and her thesis differ]
