@@ -14,7 +14,7 @@ $$ L = \int_{V}(KE - PE)dV $$
 
 Using basis functions of the form:
 
-$$ \Phi_{\lambda} = x^l y^m z^n$$,
+$$ \Phi_{\lambda} = x^l y^m z^n $$ ,
 
 the Lagrangian becomes:
 
