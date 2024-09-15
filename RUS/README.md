@@ -2,6 +2,10 @@
 
 The first paper on what was later developed into the Resonant Ultrasound Spectroscopy (RUS) technique.  The notation in that paper carried on pretty much forward into the later works of Migliori, Zadler, and more.
 
+You can run the example for a Sphere of copper here: <a target="_blank" href="https://colab.research.google.com/github/edur409/Circumferential-Surface-Waves/blob/main/RUS/RUS_Sphere.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Basic equations:
 
 Start with the Lagrangian:
