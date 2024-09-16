@@ -12,13 +12,13 @@ Start with the Lagrangian:
 
 $$ L = \int_{V}(KE - PE)dV $$
 
-> where $ KE = \frac{1}{2}\rho \omega^2 u_{i}^2$ is the kinetic energy,
+> where $KE = \frac{1}{2}\rho \omega^2 u_{i}^2$ is the kinetic energy,
 
 > and $PE = \frac{1}{2} C_{ijkl} u_{i,j} u_{k,l}$
 
 Using basis functions of the form:
 
-$$ \Phi_{\lambda} = x^l y^m z^n $$ ,
+$$\Phi_{\lambda} = x^l y^m z^n$$ ,
 
 the Lagrangian becomes:
 
