@@ -42,7 +42,7 @@ Taking the derivative of the Lagrangian with respect to each of the R components
 
 $$ \omega^2 E a = \Gamma a $$
 
-## Python version of the Vissher et al. (1991) Fortran code
+## Python version of the Visscher et al. (1991) Fortran code
 
 The following cell is a translation of the code.  Notice two things, or two typos: 1) RHO is declared but never used in creating the matrix $E$: just used at the end to scale the eigenvalues $W$. 2) When stating the counter $J$, $IG$ was used, instead of $IC$, as an array rather than a constant. 
 
