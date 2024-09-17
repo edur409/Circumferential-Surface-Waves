@@ -6,6 +6,9 @@ You can run the example for a sphere of copper here: <a target="_blank" href="ht
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
+[Normal modes of kiwifruit](https://rawcdn.githack.com/edur409/Circumferential-Surface-Waves/cc5f8b5d9f1648caf7737dfa4d0d12a135bebf1b/RUS/Kiwifruit_normal_modes.mp4)
+
 ## Basic equations:
 
 Start with the Lagrangian:
