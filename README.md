@@ -52,7 +52,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 - Gallezot, M., Treyssede, F., & Abraham, O. (2020). Forced vibrations and wave propagation in multilayered solid spheres using a one-dimensional semi-analytical finite element method. Wave Motion, 96, 102555. [doi: https://doi.org/10.1016/j.wavemoti.2020.102555](https://doi.org/10.1016/j.wavemoti.2020.102555)
 
-**PS1:** The equations presented in Cerv (1988), those in Viktorov's book, and those in Gregory (1971) produce exactly the same dispersion curve results.  The circumferential surface wave around the outline of a thin solid disk is equivalent to that of a cylinder. Liu et. al, (1998) is a good reference to the problem of surface waves in thin pipes.
+> [!NOTE]  
+> The equations presented in Cerv (1988), those in Viktorov's book, and those in Gregory (1971) produce exactly the same dispersion curve results.  The circumferential surface wave around the outline of a thin solid disk is equivalent to that of a cylinder. Liu et. al, (1998) is a good reference to the problem of surface waves in thin pipes.
 
 > [!WARNING]  
 > The velocity dispersion of the Rayleigh mode for a steel sphere is different in Clorennec and Royer (2004) [Fig 1.] compared to Gallezot et al. (2020) [Fig 7.].  This might be due to the equations used by Clorennec and Royer (2004) from Sato and Usami (1962); if the angular wavenumber $k_p$ around the sphere is taken as an integer instead of an integer and a half, the results are in disagreement.  In other words, if the dimensionless angular wavenumber $k_p$ is mistaken for the spherical harmonic order (co-latitudinal order) $l$ and given only integer values, then **Jeans' rule** or **Jeans' equation** ($k_p = l + 1/2$ or $2 \pi R/ \lambda = l + 1/2$) is not satisfied.  The following references can help clarify this seemingly puzzling equation:
@@ -74,7 +75,8 @@ From page 324 of Snieder and van Wijk (2015):
 
 I infer Clorennec and Royer (2004) did not use Jeans' rule since they assert in the third paragraph of page 2435: "An integer value $n$ of $ka$ corresponds to a resonance frequency $\omega_n$". That statement is correct for the cylinder though.  In their notation, $n$ is the spherical harmonic order $l$, as in Equation 2.2 of Sato and Usami (1962) for the spheroidal oscillation.
 
-**PS3:** A good resource online for checking and visualizing the vibrational eigenmodes of simple shapes (i.e cylinder, spheres, and more) is provided by researcher Lucien Saviot here: [https://saviot.cnrs.fr/index.en.html](https://saviot.cnrs.fr/index.en.html). Check Saviot et al. (2004) in the references above. In the [Fundamental Modes](https://github.com/edur409/Circumferential-Surface-Waves/tree/main/Fundamental_Modes) folder there is a notebook to calculate the fundamental modes of a homogenous sphere. The fundamental modes are also calculated by the variational method of Visscher et al. (1991) in the folder [RUS](https://github.com/edur409/Circumferential-Surface-Waves/tree/main/RUS). Details on the README.md files of the respective folders.
+> [!TIP]
+> A good resource online for checking and visualizing the vibrational eigenmodes of simple shapes (i.e cylinder, spheres, and more) is provided by researcher Lucien Saviot here: [https://saviot.cnrs.fr/index.en.html](https://saviot.cnrs.fr/index.en.html). Check Saviot et al. (2004) in the references above. In the [Fundamental Modes](https://github.com/edur409/Circumferential-Surface-Waves/tree/main/Fundamental_Modes) folder there is a notebook to calculate the fundamental modes of a homogenous sphere. The fundamental modes are also calculated by the variational method of Visscher et al. (1991) in the folder [RUS](https://github.com/edur409/Circumferential-Surface-Waves/tree/main/RUS). Details on the README.md files of the respective folders.
 
 # CMASW inversion code structure
 
