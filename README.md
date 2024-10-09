@@ -11,6 +11,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 ## References
 - Lamb, H. (1881). On the vibrations of an elastic sphere. Proceedings of the London Mathematical Society, 1(1), 189-212. [doi: https://doi.org/10.1112/plms/s1-13.1.189](https://doi.org/10.1112/plms/s1-13.1.189)
+
+- Jeans, J. H. (1923). The Propagation of Earthquake Waves. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 102(718), 554–574. [https://doi.org/10.1098/rspa.1923.0015](https://doi.org/10.1098/rspa.1923.0015)
   
 - Sezawa, K. (1927). On the propagation of Rayleigh waves on plane and spherical surfaces. Bull. Earthquake Res. Inst.(Tokyo), 2, 21-28.
 
