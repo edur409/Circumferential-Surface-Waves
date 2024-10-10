@@ -28,6 +28,8 @@ The following list of references does not pretend to be exhaustive, nevertheless
 
 - Eringen, A. C., & Suhubi, E. S. (1975). Elastodynamics. Vol 2: Linear theory. Academic press. 
 
+- Birch, F. (1975). Velocity and attenuation from resonant vibrations of spheres of rock, glass, and steel. Journal of Geophysical Research, 80(5), 756-764. [https://doi.org/10.1029/JB080i005p00756](https://doi.org/10.1029/JB080i005p00756)
+
 - Okal, E. A. (1978). A physical classification of the Earth's spheroidal modes. Journal of Physics of the Earth, 26(1), 75-103. [doi: https://doi.org/10.4294/jpe1952.26.75](https://doi.org/10.4294/jpe1952.26.75)
 
 - Odaka, T., & Usami, T. (1978). Some properties of spheroidal modes of a homogeneous elastic sphere with special reference to radial dependence of displacement. Journal of Computational Physics, 29(3), 431-445. [doi: https://doi.org/10.1016/0021-9991(78)90145-6](https://doi.org/10.1016/0021-9991(78)90145-6)
