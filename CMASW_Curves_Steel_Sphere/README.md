@@ -6,9 +6,13 @@ The image above illustrates the difference between: 1) assuming that an integer 
 
 ## Jeans's formula
 
+The standing waves formed by the interference of seismic surface waves travelling several times around the circumference of the Earth should satisfy:
+
 $$ka = l + \frac{1}{2}$$ 
 
 where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves.
+
+From Brune (1964) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  He demonstrated this also over the surface of a sphere of steel.
 
 The dispersion curve as a function of frequency is shown below.
 
@@ -23,11 +27,5 @@ The dispersion curve as a function of frequency is shown below.
 - Sato, Y. and Usami, T. (1962). Basic study on the oscillation of a homogeneous elastic sphere-Part I: Frequency of the Free Oscillations, Geophysical Magazine, 31(15-24).
 
 - Clorennec, D., & Royer, D. (2004). Investigation of surface acoustic wave propagation on a sphere using laser ultrasonics. Applied physics letters, 85(12), 2435-2437. [doi: https://doi.org/10.1063/1.1791331](https://doi.org/10.1063/1.1791331)
-
-- Saviot, L., Murray, D. B., Mermet, A., & Duval, E. (2004). Comment on “Estimate of the vibrational frequencies of spherical virus particles”. Physical Review E, 69(2), 023901. [doi: https://doi.org/10.1103/PhysRevE.69.023901](https://doi.org/10.1103/PhysRevE.69.023901)
-
-- Saviot, L. (2018). Vibrations of single-crystal gold nanorods and nanowires. Physical Review B, 97(15), 155420. [doi: https://doi.org/10.1103/PhysRevB.97.155420](https://doi.org/10.1103/PhysRevB.97.155420)
-  
-- Jaganathan, A. P. (2019). Multichannel surface wave analysis of reinforced concrete pipe segments using longitudinal and circumferential waves induced by a point impact. Journal of Applied Geophysics, 163, 40-54. [doi: https://doi.org/10.1016/j.jappgeo.2019.02.010](https://doi.org/10.1016/j.jappgeo.2019.02.010)
 
 - Gallezot, M., Treyssede, F., & Abraham, O. (2020). Forced vibrations and wave propagation in multilayered solid spheres using a one-dimensional semi-analytical finite element method. Wave Motion, 96, 102555. [doi: https://doi.org/10.1016/j.wavemoti.2020.102555](https://doi.org/10.1016/j.wavemoti.2020.102555)
