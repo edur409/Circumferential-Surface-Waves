@@ -4,13 +4,13 @@
 
 The image above illustrates the difference between: 1) assuming that an integer number of wavelengths fit around the circumference (Clorennec & Royer 2004), and 2) assuming the number of wavelengths around the circumference is an integer and a half (Gallezot et al. (2020)), as per seismological observations.  In seismology, the fact that the number of wavelengths around the circumference is an integer and a half is known as *Jeans' rule* or *Jeans' equation*.  
 
-## Jeans's formula
+## Jeans' formula
 
 The standing waves formed by the interference of seismic surface waves travelling several times around the circumference of the Earth should satisfy:
 
 $$ka = l + \frac{1}{2}$$ 
 
-where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves.
+where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves.  This is the asymptotic theory of the Earth's normal modes that relates the phase velocity at a particular eigenfrequency to the colatitudinal mode number associated with that frequency. 
 
 From Brune (1964) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  He demonstrated this also over the surface of a sphere of steel.
 
