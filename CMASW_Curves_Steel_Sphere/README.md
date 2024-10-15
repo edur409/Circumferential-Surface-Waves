@@ -12,7 +12,17 @@ $$ka = l + \frac{1}{2}$$
 
 where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves.  This is the asymptotic theory of the Earth's normal modes that relates the phase velocity at a particular eigenfrequency to the colatitudinal mode number associated with that frequency. 
 
-From Brune (1964) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  He demonstrated this also over the surface of a sphere of steel.
+From Brune (1961) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  He demonstrated this also over the surface of a sphere of steel.  Brune (1964) reminds us that for free oscillations of the earth, the surface wavelength, $\lambda$, is given by:
+
+$$\lambda = 2\pi a/(n + \frac{1}{2})$$
+
+where $n$ is an integer and $a$ is again the Earth's radius.  He claims (page 2107) that Sato an Matumoto (1954) showed that Jeans' formula is a requirement for standing waves.
+
+Sato and Matumoto (1954) explain in page 252 the meaning of $m$ and $n$ in the Legendre polynomials:
+
+> Here it should be added that $m$ must be an integer, while $n$ can take any arbitrary positive real value. When $n$ is an integer, (3.1) and (3.2) represent a stationary vibration, while if $n$ does not take an integral value, (3.1) and (3.2) represent a vibration in which the nodal lines move with the lapse of time, or a wave.
+
+it is worth noting that (3.1) and (3.2) are the equations for the torsional modes (vibrations of the first class) of a sphere made up of two layers (a mantle and a core).
 
 The dispersion curve as a function of frequency is shown below.
 
@@ -23,6 +33,8 @@ The dispersion curve as a function of frequency is shown below.
 - Jeans, J. H. (1923). The Propagation of Earthquake Waves. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 102(718), 554–574. [https://doi.org/10.1098/rspa.1923.0015](https://doi.org/10.1098/rspa.1923.0015)
   
 - Brune, J. N., Nafe, J. E., & Alsop, L. E. (1961). The polar phase shift of surface waves on a sphere. Bulletin of the Seismological Society of America, 51(2), 247-257. [doi: https://doi.org/10.1785/BSSA0510020247](https://doi.org/10.1785/BSSA0510020247)
+
+- Brune, J. N. (1964). Travel times, body waves, and normal modes of the earth. Bulletin of the Seismological Society of America, 54(6A), 2099-2128. [https://doi.org/10.1785/BSSA05406A2099](https://doi.org/10.1785/BSSA05406A2099)
   
 - Matumoto, T., & Sato, Y. (1954). On the vibration of an elastic globe with one layer. The vibration of the first class. Bull. Earthq. Res. Inst, 32, 247-258. https://doi.org/10.15083/0000034050 [https://repository.dl.itc.u-tokyo.ac.jp/records/34050](https://repository.dl.itc.u-tokyo.ac.jp/records/34050)
 
