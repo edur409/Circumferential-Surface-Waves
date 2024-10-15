@@ -23,6 +23,8 @@ The dispersion curve as a function of frequency is shown below.
 - Jeans, J. H. (1923). The Propagation of Earthquake Waves. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 102(718), 554–574. [https://doi.org/10.1098/rspa.1923.0015](https://doi.org/10.1098/rspa.1923.0015)
   
 - Brune, J. N., Nafe, J. E., & Alsop, L. E. (1961). The polar phase shift of surface waves on a sphere. Bulletin of the Seismological Society of America, 51(2), 247-257. [doi: https://doi.org/10.1785/BSSA0510020247](https://doi.org/10.1785/BSSA0510020247)
+  
+- Matumoto, T., & Sato, Y. (1954). On the vibration of an elastic globe with one layer. The vibration of the first class. Bull. Earthq. Res. Inst, 32, 247-258. https://doi.org/10.15083/0000034050 [https://repository.dl.itc.u-tokyo.ac.jp/records/34050](https://repository.dl.itc.u-tokyo.ac.jp/records/34050)
 
 - Sato, Y. and Usami, T. (1962). Basic study on the oscillation of a homogeneous elastic sphere-Part I: Frequency of the Free Oscillations, Geophysical Magazine, 31(15-24).
 
