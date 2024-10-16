@@ -12,7 +12,7 @@ $$ka = l + \frac{1}{2}$$
 
 where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves.  This is the asymptotic theory of the Earth's normal modes that relates the phase velocity at a particular eigenfrequency to the colatitudinal mode number associated with that frequency. 
 
-From Brune (1961) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  He demonstrated this also over the surface of a sphere of steel.  Brune (1964) reminds us that for free oscillations of the earth, the surface wavelength, $\lambda$, is given by:
+From Brune et al. (1961) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  They demonstrated this also over the surface of a sphere of steel.  Brune (1964) reminds us that for free oscillations of the earth, the surface wavelength, $\lambda$, is given by:
 
 $$\lambda = 2\pi a/(n + \frac{1}{2})$$
 
