@@ -31,13 +31,13 @@ The dispersion curve as a function of frequency is shown below.
 # References
 
 - Jeans, J. H. (1923). The Propagation of Earthquake Waves. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 102(718), 554–574. [https://doi.org/10.1098/rspa.1923.0015](https://doi.org/10.1098/rspa.1923.0015)
+
+- Matumoto, T., & Sato, Y. (1954). On the vibration of an elastic globe with one layer. The vibration of the first class. Bull. Earthq. Res. Inst, 32, 247-258. https://doi.org/10.15083/0000034050 [https://repository.dl.itc.u-tokyo.ac.jp/records/34050](https://repository.dl.itc.u-tokyo.ac.jp/records/34050)
   
 - Brune, J. N., Nafe, J. E., & Alsop, L. E. (1961). The polar phase shift of surface waves on a sphere. Bulletin of the Seismological Society of America, 51(2), 247-257. [doi: https://doi.org/10.1785/BSSA0510020247](https://doi.org/10.1785/BSSA0510020247)
 
 - Brune, J. N. (1964). Travel times, body waves, and normal modes of the earth. Bulletin of the Seismological Society of America, 54(6A), 2099-2128. [https://doi.org/10.1785/BSSA05406A2099](https://doi.org/10.1785/BSSA05406A2099)
   
-- Matumoto, T., & Sato, Y. (1954). On the vibration of an elastic globe with one layer. The vibration of the first class. Bull. Earthq. Res. Inst, 32, 247-258. https://doi.org/10.15083/0000034050 [https://repository.dl.itc.u-tokyo.ac.jp/records/34050](https://repository.dl.itc.u-tokyo.ac.jp/records/34050)
-
 - Sato, Y. and Usami, T. (1962). Basic study on the oscillation of a homogeneous elastic sphere-Part I: Frequency of the Free Oscillations, Geophysical Magazine, 31(15-24).
 
 - Clorennec, D., & Royer, D. (2004). Investigation of surface acoustic wave propagation on a sphere using laser ultrasonics. Applied physics letters, 85(12), 2435-2437. [doi: https://doi.org/10.1063/1.1791331](https://doi.org/10.1063/1.1791331)
