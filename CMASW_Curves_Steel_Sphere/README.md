@@ -38,8 +38,7 @@ it is worth noting that (3.1) and (3.2) are the equations for the torsional mode
 
 Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/2$, the polar shift of a spherical surface acoustic wave (SSAW) on its polar passage is $\pi$, as shown in the sketch of their Figure 4 below.  They collected experimental evidence using a sphere of stell of $25~mm$ in diameter.  
 
-> "...the signal detected at a point about $8.4~mm$ away from the pole. The first part (1) corresponds to the passage of the SSAW ring converging toward the pole, the second one (2) to the passage of the
-SSAW ring diverging from the pole."
+> "Figure 4 shows the signal detected at a point about $8.4~mm$ away from the pole. The first part (1) corresponds to the passage of the SSAW ring converging toward the pole, the second one (2) to the passage of the SSAW ring diverging from the pole."
 
 ![Royer_et_al_1988_Fig4_sketch](https://github.com/user-attachments/assets/00d1be51-e8e9-43bc-b49e-aefa2cd1baf1)
 
