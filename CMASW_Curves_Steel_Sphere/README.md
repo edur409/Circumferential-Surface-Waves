@@ -32,7 +32,13 @@ Sato and Matumoto (1954) explain in page 252 the meaning of $m$ and $n$ in the L
 
 it is worth noting that (3.1) and (3.2) are the equations for the torsional modes (vibrations of the first class) of a sphere made up of two layers (a mantle and a core).
 
+## The laser ultrasound experimental discrepancy on the polar phase shift
+
+Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/2$, the polar shift of a surface acousic wave (SAW) on its polar passage is $\pi$, as shown in the sketch of their Figure 4 below.
+
 ![Royer_et_al_1988_Fig4_sketch](https://github.com/user-attachments/assets/00d1be51-e8e9-43bc-b49e-aefa2cd1baf1)
+
+> As it appears clearly, pulse 2 undergoes a phase shift of 180 degrees on passing through the pole. Such a $\pi$-phase shift is well known in optics for focused spherical waves. Similar results have also been reported for bulk acoustic waves. For surface acoustic waves, an experiment has been carried out with cylindrical waves propagating in a plane. A phase jump of $\pi/2$ was demonstrated.
 
 The dispersion curve as a function of frequency is shown below.
 
