@@ -12,6 +12,8 @@ $$ka = l + \frac{1}{2}$$
 
 where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves.  This is the asymptotic theory of the Earth's normal modes that relates the phase velocity at a particular eigenfrequency to the colatitudinal mode number associated with that frequency. 
 
+## The polar phase shift in seismology
+
 From Brune et al. (1961) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  They demonstrated this also over the surface of a sphere of steel. Below is a sketch of the waveforms collected on a steel sphere of $4.46~in$ in diameter (Figure 3 of their paper). 
 
 ![Brune_et_al_1961_Fig3_sketch](https://github.com/user-attachments/assets/399f314d-fd67-4c6b-accc-a4f417d9c63a)
