@@ -32,6 +32,8 @@ Sato and Matumoto (1954) explain in page 252 the meaning of $m$ and $n$ in the L
 
 it is worth noting that (3.1) and (3.2) are the equations for the torsional modes (vibrations of the first class) of a sphere made up of two layers (a mantle and a core).
 
+![Royer_et_al_1988_Fig4_sketch](https://github.com/user-attachments/assets/00d1be51-e8e9-43bc-b49e-aefa2cd1baf1)
+
 The dispersion curve as a function of frequency is shown below.
 
 ![Steel_Sphere_Discrepancy_Vph_vs_Frequency](https://github.com/user-attachments/assets/d7061f59-e4c4-4403-9ea2-f03c2ad81ffd)
