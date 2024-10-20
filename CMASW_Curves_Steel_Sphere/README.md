@@ -36,13 +36,19 @@ it is worth noting that (3.1) and (3.2) are the equations for the torsional mode
 
 ## The laser ultrasound experimental discrepancy on the polar phase shift
 
-Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/2$, the polar shift of a spherical surface acoustic wave (SSAW) on its polar passage is $\pi$, as shown in the sketch of their Figure 4 below.  They collected experimental evidence using a sphere of stell of $25~mm$ in diameter.  
+Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/2$, the polar shift of a spherical surface acoustic wave (SSAW) on its polar passage is $\pi$, as shown in the sketch of their Figure 4 below.  They collected experimental evidence using a sphere of steel of $25~mm$ in diameter.  
 
 > "Figure 4 shows the signal detected at a point about $8.4~mm$ away from the pole. The first part (1) corresponds to the passage of the SSAW ring converging toward the pole, the second one (2) to the passage of the SSAW ring diverging from the pole."
 
 ![Royer_et_al_1988_Fig4_sketch](https://github.com/user-attachments/assets/00d1be51-e8e9-43bc-b49e-aefa2cd1baf1)
 
 > As it appears clearly, pulse 2 undergoes a phase shift of 180 degrees on passing through the pole. Such a $\pi$-phase shift is well known in optics for focused spherical waves. Similar results have also been reported for bulk acoustic waves. For surface acoustic waves, an experiment has been carried out with cylindrical waves propagating in a plane. A phase jump of $\pi/2$ was demonstrated.
+
+Hsieh (1993) argues in his doctoral thesis that the polar shift is also $\pi$ and therefore, to form a surface wav resonance, the circumference of the sphere must be an integral number ($M$) of surface wavelengths given by:
+
+$$ka = M - 1$$
+
+Clearly, the academic literature on this topic seems to be in disagreement. 
 
 The dispersion curve as a function of frequency is shown below.
 
