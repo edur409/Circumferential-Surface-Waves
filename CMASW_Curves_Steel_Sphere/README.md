@@ -62,10 +62,10 @@ The dispersion curve as a function of frequency is shown below.
   
 - Brune, J. N., Nafe, J. E., & Alsop, L. E. (1961). The polar phase shift of surface waves on a sphere. Bulletin of the Seismological Society of America, 51(2), 247-257. [doi: https://doi.org/10.1785/BSSA0510020247](https://doi.org/10.1785/BSSA0510020247)
 
-- Brune, J. N. (1964). Travel times, body waves, and normal modes of the earth. Bulletin of the Seismological Society of America, 54(6A), 2099-2128. [https://doi.org/10.1785/BSSA05406A2099](https://doi.org/10.1785/BSSA05406A2099)
-  
 - Sato, Y. and Usami, T. (1962). Basic study on the oscillation of a homogeneous elastic sphere-Part I: Frequency of the Free Oscillations, Geophysical Magazine, 31(15-24).
 
+- Brune, J. N. (1964). Travel times, body waves, and normal modes of the earth. Bulletin of the Seismological Society of America, 54(6A), 2099-2128. [https://doi.org/10.1785/BSSA05406A2099](https://doi.org/10.1785/BSSA05406A2099)
+  
 - D. Royer, E. Dieulesaint, X. Jia, Y. Shui; Optical generation and detection of surface acoustic waves on a sphere. Appl. Phys. Lett. 29 February 1988; 52 (9): 706–708. [doi: https://doi.org/10.1063/1.99353](https://doi.org/10.1063/1.99353)
 
 - Hsieh, C. K. P. (1993). Laser-ultrasound characterization of spherical objects. Stanford University. 
