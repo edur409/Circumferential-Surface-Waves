@@ -44,7 +44,7 @@ Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/
 
 > As it appears clearly, pulse 2 undergoes a phase shift of 180 degrees on passing through the pole. Such a $\pi$-phase shift is well known in optics for focused spherical waves. Similar results have also been reported for bulk acoustic waves. For surface acoustic waves, an experiment has been carried out with cylindrical waves propagating in a plane. A phase jump of $\pi/2$ was demonstrated.
 
-Hsieh (1993) argues in his doctoral thesis that the polar shift is also $\pi$ and therefore, to form a surface wav resonance, the circumference of the sphere must be an integral number ($M$) of surface wavelengths given by:
+Hsieh (1993) argues in his doctoral thesis (pages 42 and 43) that the polar shift is also $\pi$ and therefore, to form a surface wave resonance, the circumference of the sphere must be an integral number ($M$) of surface wavelengths given by:
 
 $$ka = M - 1$$
 
