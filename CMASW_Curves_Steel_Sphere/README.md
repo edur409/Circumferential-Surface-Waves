@@ -16,6 +16,10 @@ From Brune et al. (1961) we know that every polar passage of a surface wave arou
 
 ![Brune_et_al_1961_Fig3_sketch](https://github.com/user-attachments/assets/399f314d-fd67-4c6b-accc-a4f417d9c63a)
 
+> "R1 has not made a polar passage, R2 has made one polar passage and is shifted by $\pi/2$, and R3
+has made two polar passages and is shifted by $\pi$ relative to R1. This figure clearly
+shows that the phase shift on each polar passage is $\pi/2$."
+
 Brune (1964) reminds us that for free oscillations of the earth, the surface wavelength, $\lambda$, is given by:
 
 $$\lambda = 2\pi a/(n + \frac{1}{2})$$
