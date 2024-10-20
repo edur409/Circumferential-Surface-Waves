@@ -12,7 +12,11 @@ $$ka = l + \frac{1}{2}$$
 
 where $l$ is the mode number, $k = w/c$ , $w = 2 \pi/ T$ , $T$ is the period of free oscillations, $a$ is the radius of the Earth, and $c$ is the phase velocity of the corresponding traveling waves.  This is the asymptotic theory of the Earth's normal modes that relates the phase velocity at a particular eigenfrequency to the colatitudinal mode number associated with that frequency. 
 
-From Brune et al. (1961) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  They demonstrated this also over the surface of a sphere of steel.  Brune (1964) reminds us that for free oscillations of the earth, the surface wavelength, $\lambda$, is given by:
+From Brune et al. (1961) we know that every polar passage of a surface wave around the earth produces a phase shift of $\pi/2$ ($\lambda/4$).  They demonstrated this also over the surface of a sphere of steel. Below is a sketch of the waveforms collected on a steel sphere of $4.46~in$ in diameter (Figure 3 of their paper). 
+
+![Brune_et_al_1961_Fig3_sketch](https://github.com/user-attachments/assets/399f314d-fd67-4c6b-accc-a4f417d9c63a)
+
+Brune (1964) reminds us that for free oscillations of the earth, the surface wavelength, $\lambda$, is given by:
 
 $$\lambda = 2\pi a/(n + \frac{1}{2})$$
 
@@ -39,6 +43,10 @@ The dispersion curve as a function of frequency is shown below.
 - Brune, J. N. (1964). Travel times, body waves, and normal modes of the earth. Bulletin of the Seismological Society of America, 54(6A), 2099-2128. [https://doi.org/10.1785/BSSA05406A2099](https://doi.org/10.1785/BSSA05406A2099)
   
 - Sato, Y. and Usami, T. (1962). Basic study on the oscillation of a homogeneous elastic sphere-Part I: Frequency of the Free Oscillations, Geophysical Magazine, 31(15-24).
+
+- D. Royer, E. Dieulesaint, X. Jia, Y. Shui; Optical generation and detection of surface acoustic waves on a sphere. Appl. Phys. Lett. 29 February 1988; 52 (9): 706–708. [doi: https://doi.org/10.1063/1.99353](https://doi.org/10.1063/1.99353)
+
+- Hsieh, C. K. P. (1993). Laser-ultrasound characterization of spherical objects. Stanford University. 
 
 - Clorennec, D., & Royer, D. (2004). Investigation of surface acoustic wave propagation on a sphere using laser ultrasonics. Applied physics letters, 85(12), 2435-2437. [doi: https://doi.org/10.1063/1.1791331](https://doi.org/10.1063/1.1791331)
 
