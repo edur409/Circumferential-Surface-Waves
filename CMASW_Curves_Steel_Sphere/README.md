@@ -89,6 +89,7 @@ $$\psi_1(ha)\frac{\omega_1}{h^2} - \psi_1(ka) \phi_1 = 0$$
 
 $$\left[\psi_1(ha) + \frac{6}{k^2 a^2}ha\psi_1'(ha)\right] \frac{\omega_1}{h^2} + \frac{1}{2}\left[\psi_1(ka) + \frac{6}{ka}\psi_1'(ka) \right] \phi_1 = 0$$
 
+where $\psi$ are *spherical Bessel functions*. 
 
 # References
 
