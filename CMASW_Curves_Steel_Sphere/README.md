@@ -57,10 +57,12 @@ The dispersion curve as a function of frequency is shown below.
 
 # What's the link between Jeans' formula and the equations for normal modes on a sphere deduced by Lamb (1882) 
 
-Recall that we have been using the derivation of Sato and Usami (1962), which references the original paper of Lamb (1882).  The equations of Sato and Usami (1962) for the spheroidal mode are:
+Recall that we have been using the derivation of Sato and Usami (1962), which references the original paper of Lamb (1882).  The equations of Sato and Usami (1962) for the torsional and spheroidal mode are:
 
 ### For $n > 0$ and $l > 0$:
-- From Sato and Usami (1962), page 16, Eq.2.2:
+- From Sato and Usami (1962), page 16, Eq. 2.1 and Eq.2.2:
+
+$$(n - 1)J_{n+1/2}(\eta) - \eta J_{n+3/2}(\eta) = 0 $$
 
 $$\begin{aligned} & {\left[\left(\frac{1}{2}-\frac{n(n-1)}{\eta^2}\right) J_{n+1 / 2}(\xi)-\frac{2 \xi}{\eta^2} J_{n+3 / 2}(\xi)\right]\left[\frac{2}{\eta} J_{n+3 / 2}(\eta)+\left(\frac{2\left(n^2-1\right)}{\eta^2}-1\right) J_{n+1 / 2}(\eta)\right]} \\ 
 & \quad+2 n(n+1)\left[\frac{n-1}{\eta^2} J_{n+1 / 2}(\xi)-\frac{\xi}{\eta^2} J_{n+3 / 2}(\xi)\right]\left[\frac{n-1}{\eta^2} J_{n+1 / 2}(\eta)-\frac{1}{\eta} J_{n+3 / 2}(\eta)\right]=0\end{aligned}$$
@@ -82,6 +84,8 @@ Notice that the argument or subscript of the Bessel functions of the first kind 
 ### Lamb's toroidal and spheroidal mode equations ($n = 1$ and $l > 0$)
 
 For n = 1 or *Species = 1* in the jargon of Lamb (1882), Equations 85 and 86 of page 207 for the *toroidal* and *spheroidal* modes respectively are:
+
+$$\psi_1(ha)\frac{\omega_1}{h^2} - \psi_1(ka) \phi_1 = 0$$
 
 $$\left[\psi_1(ha) + \frac{6}{k^2 a^2}ha\psi_1'(ha)\right] \frac{\omega_1}{h^2} + \frac{1}{2}\left[\psi_1(ka) + \frac{6}{ka}\psi_1'(ka) \right] \phi_1 = 0$$
 
