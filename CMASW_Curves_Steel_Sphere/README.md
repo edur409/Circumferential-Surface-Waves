@@ -83,7 +83,7 @@ Notice that the argument or subscript of the Bessel functions of the first kind 
 
 For n = 1 or *Species = 1* in the jargon of Lamb (1882), Equations 85 and 86 of page 207 for the *toroidal* and *spheroidal* modes respectively are:
 
-$$\Left(\psi_1(ha) + \frac{6}{k^2 a^2}ha\psi_1'(ha)\Right) \frac{\omega_1}{h^2} + \frac{1}{2}\Left( \psi_1(ka) + \frac{6}{ka}\psi_1'(ka) \Right) \phi_1 = 0$$
+$$\left[\psi_1(ha) + \frac{6}{k^2 a^2}ha\psi_1'(ha)\right] \frac{\omega_1}{h^2} + \frac{1}{2}\left[\psi_1(ka) + \frac{6}{ka}\psi_1'(ka) \right] \phi_1 = 0$$
 
 
 # References
