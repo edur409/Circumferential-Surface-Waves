@@ -54,6 +54,38 @@ The dispersion curve as a function of frequency is shown below.
 
 ![Steel_Sphere_Discrepancy_Vph_vs_Frequency](https://github.com/user-attachments/assets/d7061f59-e4c4-4403-9ea2-f03c2ad81ffd)
 
+
+# What's the link between Jeans' formula and the equations for normal modes on a sphere deduced by Lamb (1882) 
+
+Recall that we have been using the derivation of Sato and Usami (1962), which references the original paper of Lamb (1882).  The equations of Sato and Usami (1962) for the spheroidal mode are:
+
+### For $n > 0$ and $l > 0$:
+- From Sato and Usami (1962), page 16, Eq.2.2:
+
+$$\begin{aligned} & {\left[\left(\frac{1}{2}-\frac{n(n-1)}{\eta^2}\right) J_{n+1 / 2}(\xi)-\frac{2 \xi}{\eta^2} J_{n+3 / 2}(\xi)\right]\left[\frac{2}{\eta} J_{n+3 / 2}(\eta)+\left(\frac{2\left(n^2-1\right)}{\eta^2}-1\right) J_{n+1 / 2}(\eta)\right]} \\ 
+& \quad+2 n(n+1)\left[\frac{n-1}{\eta^2} J_{n+1 / 2}(\xi)-\frac{\xi}{\eta^2} J_{n+3 / 2}(\xi)\right]\left[\frac{n-1}{\eta^2} J_{n+1 / 2}(\eta)-\frac{1}{\eta} J_{n+3 / 2}(\eta)\right]=0\end{aligned}$$
+
+where
+
+> $R$: radius of the sphere
+
+> $f$: frequency
+
+> $\eta = \frac{2 \pi f R}{v_p} = \frac{\omega}{v_p} R = k_l R$
+
+> $\xi = \frac{2 \pi f R}{v_s} = \frac{\omega}{v_s} R = k_t R$
+
+> $J_{\nu}(z)$: Bessel function of the first kind 
+
+Notice that the argument or subscript of the Bessel functions of the first kind is either $n + 1/2$ or $n + 3/2$. How do the original equations look like in Lamb's paper?
+
+### Lamb's toroidal and spheroidal mode equations ($n = 1$ and $l > 0$)
+
+For n = 1 or *Species = 1* in the jargon of Lamb (1882), Equations 85 and 86 of page 207 for the *toroidal* and *spheroidal* modes respectively are:
+
+$$\Left(\psi_1(ha) + \frac{6}{k^2 a^2}ha\psi_1'(ha)\Right) \frac{\omega_1}{h^2} + \frac{1}{2}\Left( \psi_1(ka) + \frac{6}{ka}\psi_1'(ka) \Right) \phi_1 = 0$$
+
+
 # References
 
 - Jeans, J. H. (1923). The Propagation of Earthquake Waves. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 102(718), 554–574. [https://doi.org/10.1098/rspa.1923.0015](https://doi.org/10.1098/rspa.1923.0015)
@@ -65,6 +97,8 @@ The dispersion curve as a function of frequency is shown below.
 - Sato, Y. and Usami, T. (1962). Basic study on the oscillation of a homogeneous elastic sphere-Part I: Frequency of the Free Oscillations, Geophysical Magazine, 31(15-24).
 
 - Brune, J. N. (1964). Travel times, body waves, and normal modes of the earth. Bulletin of the Seismological Society of America, 54(6A), 2099-2128. [https://doi.org/10.1785/BSSA05406A2099](https://doi.org/10.1785/BSSA05406A2099)
+
+- Abramowitz, M., & Stegun, I. A. (1972). Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables. National Bureau of Standards Applied Mathematics Series 55. Tenth Printing.
   
 - D. Royer, E. Dieulesaint, X. Jia, Y. Shui; Optical generation and detection of surface acoustic waves on a sphere. Appl. Phys. Lett. 29 February 1988; 52 (9): 706–708. [doi: https://doi.org/10.1063/1.99353](https://doi.org/10.1063/1.99353)
 
