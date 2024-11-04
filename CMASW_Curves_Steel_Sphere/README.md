@@ -36,9 +36,12 @@ it is worth noting that (3.1) and (3.2) are the equations for the torsional mode
 
 From Aki and Richards (2002) in page 351:
 
-> Thus (8.39) shows a superposition of standing-wave patterns called zonal harmonics, determined by $P_l(cos \Delta)$.  Since $P_l(cos \Delta)$ has exactly $l$ nodes in the interval $0 < Delta < \pi$, there are $l$ cycles of oscillation around the great circle.  On the other hand, the asymptotic expansion pf P_l(cos \Delta)$, which is valid for large $l$ except near $\Delta=0$ and $\Delta=\pi$, is
+> Thus (8.39) shows a superposition of standing-wave patterns called zonal harmonics, determined by $P_l(cos \Delta)$.  Since $P_l(cos \Delta)$ has exactly $l$ nodes in the interval $0 < Delta < \pi$, there are $l$ cycles of oscillation around the great circle.  On the other hand, the asymptotic expansion of $P_l(cos \Delta)$, which is valid for large $l$ except near $\Delta=0$ and $\Delta=\pi$, is
 
  $$P_l(cos \Delta) \approx \left( \frac{2}{(l + \frac{1}{2})\pi sin \Delta} \right)^{1/2} cos[(l + \frac{1}{2})\Delta - \pi/4].$$
+
+> This shows again that thwe wavelength is approximately $2\pi r/(l + 1/2)$ except near $\Delta = 0$ or $\Delta = \pi$.  Taking $l$ cycles of such waves, we get $2\pi r l/(l + 1/2)$ instead of $2\pi r$.  This means that the distance between neighboring nodes in the vicinity of $\Delta = 0$ or $\pi$ is longer than elsewhere, and therefore that the apparent phase velocity is faster in this special regions.
+> In measuring surface-wave phase velocity, the above effect causes an apparent phase advance amaounting to $\pi/2$ at each polar passage, which must be allowed for if the path cotains the epicenter or its antpode. (The phase shift $\pi/4$ in the asymptotic expansion above is doubled for entrance to and exitfrom the pole).   This is known as the *polar phase shift*, introduced by Brune et al. (1961), who showed that it resolved what previously had been inconsistent results for the phase velocities measured over minor arcs, major arcs, and full great circles.  
 
 ## The laser ultrasound experimental discrepancy on the polar phase shift
 
