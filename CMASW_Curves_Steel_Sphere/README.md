@@ -34,6 +34,12 @@ Sato and Matumoto (1954) explain in page 252 the meaning of $m$ and $n$ in the L
 
 it is worth noting that (3.1) and (3.2) are the equations for the torsional modes (vibrations of the first class) of a sphere made up of two layers (a mantle and a core).
 
+From Aki and Richards (2002) in page 351:
+
+> Thus (8.39) shows a superposition of standing-wave patterns called zonal harmonics, determined by $P_l(cos \Delta)$.  Since $P_l(cos \Delta)$ has exactly $l$ nodes in the interval $0 < |Delta < \pi$, there are $l$ cycles of oscillation around the great circle.  On the other hand, the asymptotic expansion pf P_l(cos \Delta)$, which is valid for large $l$ except near $\Delta=0$ and $\Delta=\pi$, is
+
+ $$P_l(cos \Delta) \approx \left( \frac{2}{(l + \frac{1}{2})\pi sin \Delta} \right)^{1/2} cos[(l + \frac{1}{2})\Delta - \pi/4].$$
+
 ## The laser ultrasound experimental discrepancy on the polar phase shift
 
 Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/2$, the polar shift of a spherical surface acoustic wave (SSAW) on its polar passage is $\pi$, as shown in the sketch of their Figure 4 below.  They collected experimental evidence using a sphere of steel of $25~mm$ in diameter.  
