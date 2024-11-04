@@ -36,7 +36,7 @@ it is worth noting that (3.1) and (3.2) are the equations for the torsional mode
 
 From Aki and Richards (2002) in page 351:
 
-> Thus (8.39) shows a superposition of standing-wave patterns called zonal harmonics, determined by $P_l(cos \Delta)$.  Since $P_l(cos \Delta)$ has exactly $l$ nodes in the interval $0 < |Delta < \pi$, there are $l$ cycles of oscillation around the great circle.  On the other hand, the asymptotic expansion pf P_l(cos \Delta)$, which is valid for large $l$ except near $\Delta=0$ and $\Delta=\pi$, is
+> Thus (8.39) shows a superposition of standing-wave patterns called zonal harmonics, determined by $P_l(cos \Delta)$.  Since $P_l(cos \Delta)$ has exactly $l$ nodes in the interval $0 < Delta < \pi$, there are $l$ cycles of oscillation around the great circle.  On the other hand, the asymptotic expansion pf P_l(cos \Delta)$, which is valid for large $l$ except near $\Delta=0$ and $\Delta=\pi$, is
 
  $$P_l(cos \Delta) \approx \left( \frac{2}{(l + \frac{1}{2})\pi sin \Delta} \right)^{1/2} cos[(l + \frac{1}{2})\Delta - \pi/4].$$
 
