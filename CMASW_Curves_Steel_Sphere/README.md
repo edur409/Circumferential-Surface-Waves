@@ -46,6 +46,10 @@ From Aki and Richards (2002) in page 351:
 ![Cylinder_Sphere_n6_l0](https://github.com/user-attachments/assets/14f44977-dc5c-4d05-b8cf-9e3e6024896d)
 Resonant modes for a cylinder (left) and sphere (right) for $n = 6$ and $l = 0$ (the fundametal mode).  Notice how the number of nodes is the same on both, but the symmetry is different for the spherical geometry. The larger bulges of displacement on the sphere are located at the source and its antipode.  Images generated from: https://saviot.cnrs.fr/index.en.html
 
+You can check the displacement of the fundamental modes of the sphere here: <a target="_blank" href="https://colab.research.google.com/github/edur409/Circumferential-Surface-Waves/blob/main/Fundamental_Modes/Legendre_Sphere_Fundamental_Modes.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## The laser ultrasound experimental discrepancy on the polar phase shift
 
 Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/2$, the polar shift of a spherical surface acoustic wave (SSAW) on its polar passage is $\pi$, as shown in the sketch of their Figure 4 below.  They collected experimental evidence using a sphere of steel of $25~mm$ in diameter.  
