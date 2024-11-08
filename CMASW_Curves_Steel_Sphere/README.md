@@ -43,6 +43,9 @@ From Aki and Richards (2002) in page 351:
 > This shows again that the wavelength is approximately $2\pi r/(l + 1/2)$ except near $\Delta = 0$ or $\Delta = \pi$.  Taking $l$ cycles of such waves, we get $2\pi r l/(l + 1/2)$ instead of $2\pi r$.  This means that the distance between neighboring nodes in the vicinity of $\Delta = 0$ or $\pi$ is longer than elsewhere, and therefore that the apparent phase velocity is faster in this special regions.
 > In measuring surface-wave phase velocity, the above effect causes an apparent phase advance amounting to $\pi/2$ at each polar passage, which must be allowed for if the path cotains the epicenter or its antipode. (The phase shift $\pi/4$ in the asymptotic expansion above is doubled for entrance to and exit from the pole).   This is known as the *polar phase shift*, introduced by Brune et al. (1961), who showed that it resolved what previously had been inconsistent results for the phase velocities measured over minor arcs, major arcs, and full great circles.  
 
+![Cylinder_Sphere_n6_l0](https://github.com/user-attachments/assets/14f44977-dc5c-4d05-b8cf-9e3e6024896d)
+Resonant modes for a cylinder (left) and sphere (right) for $n = 6$ and $l = 0$ (the fundametal mode).  Notice how the number of nodes is the same on both, but the symmetry is different for the spherical geometry. The larger bulges of displacement on the sphere are located at the source and its antipode.  Images generated from: https://saviot.cnrs.fr/index.en.html
+
 ## The laser ultrasound experimental discrepancy on the polar phase shift
 
 Royer et al. (1988) experimentally showed that instead of a polar shift of $\pi/2$, the polar shift of a spherical surface acoustic wave (SSAW) on its polar passage is $\pi$, as shown in the sketch of their Figure 4 below.  They collected experimental evidence using a sphere of steel of $25~mm$ in diameter.  
