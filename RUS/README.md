@@ -14,6 +14,10 @@ Kiwifruit normal modes displacements <a target="_blank" href="https://colab.rese
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+RUS for kiwifruit CDZ3_17112023 <a target="_blank" href="https://colab.research.google.com/github/edur409/Circumferential-Surface-Waves/blob/main/RUS/RUS_Kiwifruit_CDZ3_17112023.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
+
 Cylinder of copper with displacements <a target="_blank" href="https://colab.research.google.com/github/edur409/Circumferential-Surface-Waves/blob/main/RUS/RUS_Cylinder.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
